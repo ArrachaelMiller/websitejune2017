@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Stardom Mansion
+# Stars on Stage, as well as at home
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stardommansionboston/websitejune2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,15 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+Syntax highlighted code blo
 1. Numbered
 2. List
 
